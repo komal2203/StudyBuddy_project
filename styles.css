@@ -68,12 +68,14 @@ body {
     display: flex;
   }
 }
-.nav-link{
-  color: var( --primary-color);
+.nav-link {
+  color: var(--primary-color);
 }
+
 .nav-link:hover {
   color: var(--dark-purple-color);
 }
+
 .contact-button {
   display: none;
   border: none;
